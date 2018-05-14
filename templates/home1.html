@@ -1,0 +1,12 @@
+<html>
+ <head>
+  <title>Fotos</title>
+ </head>
+ <body>
+  <h1>Titulos de fotos en flikr</h1>
+  <h2>Titulos</h2>
+  {% for node in tree %}
+   <h2>{{ node[text] }}</h2>
+  {% endfor %}
+ </body>
+</html>

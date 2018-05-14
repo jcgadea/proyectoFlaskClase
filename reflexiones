@@ -1,0 +1,11 @@
+a1- git checkout _id_
+
+	Sirve para hacer checkout de un commit en concreto.
+
+a2- Estructura de una simple aplicacion python flask
+
+	Flask es un microframework web, y se encarga de procesar la informacion y datos que despues e mostraran en una pagina HTML. 
+
+a3- Trabajo o uso de librerias
+
+	Para instalar librerias python se puede usar la herramienta "pip". Para usarlas en un proyecto hay que importarlas.
